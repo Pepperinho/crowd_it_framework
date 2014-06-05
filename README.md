@@ -1,6 +1,4 @@
 crowd_it_framework
 ==================
 
-CROwd IT Framework
-
-Testiram promjenu.
+Sve upute se nalaze na https://github.com/milivojm/crowd_it_framework/wiki.
